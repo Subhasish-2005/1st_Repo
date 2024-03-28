@@ -1,6 +1,7 @@
-# The name of the Repo
-Summary of stuff here
-# This is how you setup the project
-do things here, Afterwards do more stuff.
+Hi guys I'm Subhasish Jana
+I'm a electronics and commmunications undergrad...
+Interested in core electronics, VLSI & Embedded systems.
+Skills acquired: Python (basic), C (basic)...
+Hobbies: Playing Cricket n Football, Painting, Sketching...
 
 
