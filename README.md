@@ -1,7 +1,8 @@
-Hi guys I'm Subhasish Jana<br>
-I'm a electronics and commmunications undergrad...<br>
-Interested in core electronics, VLSI & Embedded systems...<br>
-Skills acquired: Python (basic), C (basic)...<br>
-Hobbies: Playing Cricket n Football, Painting, Sketching...
-
+- 👋 Hi, I’m @Subhasish Jana..<br>
+- 👀 I’m interested in core electronics,VLSI & Embedded systems...<br>
+- 🌱 I’m currently learning C++,Basic circuit designing...<br>
+- 💞️ Skills acquires: Python (basic), C (basic)...<br>
+- 📫 How to reach me: subhasish2005jana@gmail.com...<br>
+- 😄 Pronouns: Jammes...<br>
+- ⚡ Links: https://www.linkedin.com/in/subhasish-19j10
 
