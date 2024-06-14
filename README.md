@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhasish Jana..<br>
+- 👋 Hi, I’mSubhasish ...<br>
 - 👀 I’m interested in core electronics,VLSI & Embedded systems...<br>
 - 🌱 I’m currently learning C++,Basic circuit designing...<br>
 - 💞️ Skills acquires: Python (basic), C (basic)...<br>
